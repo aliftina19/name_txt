@@ -1,1 +1,9 @@
 
+name: bag 1 
+a short description of the error:name
+nomber version: 12345
+bug severity:S4
+bug priority:P2
+bug status:open
+labels:cart
+comments:no
