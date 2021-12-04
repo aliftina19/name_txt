@@ -1,0 +1,2 @@
+skills:
+basic theory ,wat is json,xml,http requets
